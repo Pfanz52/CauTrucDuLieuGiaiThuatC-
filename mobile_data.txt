@@ -1,0 +1,13 @@
+202 samsung2 6000.25
+200 samsung 1500.32
+109 iphone6s 100.00
+108 iphone7 200.24
+106 iphoneXSmax 560.60
+105 iphonex 525.22
+104 iphone11 850.75
+103 iphone12 950.25
+102 iphone13 1000.00
+101 iphone14 1200.00
+100 iphone15 2200.00
+201 oppo 300.00
+203 nokia 180.00
